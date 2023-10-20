@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lekha Nitin Pangale</h1>
+<h1 align="center">Hi 👋, I'm Lekha Pangale</h1>
 <h3 align="center">A passionate Java Full-stack developer from India</h3>
 - 🌱 I’m currently learning **Core java & Advance java**
 
