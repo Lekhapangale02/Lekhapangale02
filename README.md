@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lekha Pangale</h1>
 <h3 align="center">A passionate Java Full-stack developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://lottiefiles.com/animations/girl-on-computer-with-idea-vKx1wtZe5l">
 - 🌱 I’m currently learning **Core java & Advance java**
 
 - 📫 How to reach me **lekhanpangale@gmail.com**
